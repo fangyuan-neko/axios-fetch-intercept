@@ -1,0 +1,17 @@
+{
+  "name": "axios-fetch-intercept",
+  "module": "src/index.ts",
+  "type": "module",
+  "author": {
+    "email": "Extra_Fang@outlook.com",
+    "name": "fangyuan",
+    "url": "https://github.com/fangyuan-neko/axios-fetch-intercept"
+  },
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
