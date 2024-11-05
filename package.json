@@ -2,6 +2,7 @@
   "name": "axios-fetch-intercept",
   "module": "src/index.ts",
   "type": "module",
+  "version": "0.0.1",
   "author": {
     "email": "Extra_Fang@outlook.com",
     "name": "fangyuan",
