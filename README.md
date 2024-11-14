@@ -10,7 +10,7 @@ pnpm add axios-fetch-intercept # pnpm
 Example:
 
 ```javascript
-import fetchLikeAxios from "asios-fetch-intercept";
+import fetchLikeAxios from "fetchLikeAxios";
 
 // a request interceptor
 fetchLikeAxios.interceptors.request.use(function (config) {
