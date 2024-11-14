@@ -3,7 +3,7 @@
   "module": "dist/fetchLikeAxios.js",
   "types": "dist/fetchLikeAxios.d.ts",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "email": "Extra_Fang@outlook.com",
     "name": "fangyuan",

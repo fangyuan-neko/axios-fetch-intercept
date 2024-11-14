@@ -1,4 +1,4 @@
-import fetchLikeAxios from "fetchLikeAxios";
+import fetchLikeAxios from "axios-fetch-intercept";
 
 // a request interceptor
 fetchLikeAxios.interceptors.request.use((config: RequestInit) => {
